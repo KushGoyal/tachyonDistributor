@@ -33,7 +33,7 @@ To be distributed = 19,940
 
 Then I deployed the token contract on the [Rinkeby](https://rinkeby.etherscan.io/) network.
 
-Contract address: 0xA57F5ffe48c7079A98c08701D0b63Ec20Ef29B29
+Contract address: 0xA57F5ffe48c7079A98c08701D0b63Ec20Ef29B29 (Rinkeby network)
 
 This contract will send the total supply to the creator's address.
 
@@ -43,7 +43,7 @@ The merkle distributor contract has been taken from [uniswap](https://github.com
 
 To deploy the contract I used the address of the TAC token and the merkle root.
 
-Contract address: 0x710a25efF5A9CB435664084b98bD7b5359bEf25e
+Contract address: 0x710a25efF5A9CB435664084b98bD7b5359bEf25e (Rinkeby network)
 
 I transferred TAC tokens to the merkle distributor contract so that users can claim them using the contract.
 
