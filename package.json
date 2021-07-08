@@ -1,0 +1,22 @@
+{
+  "name": "tachyondistributor",
+  "version": "1.0.0",
+  "description": "Install the below libs to run the command",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "fs": "0.0.1-security",
+    "web3": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

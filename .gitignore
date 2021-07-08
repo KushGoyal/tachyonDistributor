@@ -1,0 +1,7 @@
+.secret
+.apikey
+build
+node_modules
+addresses.json
+merkletree.json
+.idea
