@@ -65,6 +65,15 @@ After a successful claim the same address cannot claim tokens again.
 
 Only eligible addresses can claim tokens.
 
+## tests
+
+Used mocha with ethereum waffle for testing
+
+To run the tests:
+1. install all the dependencies `npm install`
+2. run `npx waffle` to compile the contracts
+3. then run `npm test`
+
 
 #### Referred links:
 https://docs.ethers.io/v5/  

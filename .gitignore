@@ -5,3 +5,4 @@ node_modules
 addresses.json
 merkletree.json
 .idea
+cache
